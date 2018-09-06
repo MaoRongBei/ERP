@@ -12,3 +12,6 @@ try to update readme.txt  again
 
 time 20180908 15:50:00
 recommit files
+
+time  20180908 17:13:00
+try for  checkout 
