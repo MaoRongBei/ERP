@@ -20,3 +20,7 @@ try for  checkout
 
 time  20180918 11:13:00
 try for  remote add git 
+
+
+time  20180918 13:43:00
+Creating a new branch is quick.
