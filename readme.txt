@@ -15,3 +15,8 @@ recommit files
 
 time  20180908 17:13:00
 try for  checkout 
+
+
+
+time  20180918 11:13:00
+try for  remote add git 
